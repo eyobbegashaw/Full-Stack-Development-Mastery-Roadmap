@@ -213,14 +213,6 @@ Night     (30 mins): 📝 Review & document
 - ❌ Comparing progress with others
 
 ---
-
-## 🎓 Certification Path
-
-After completing this roadmap, you'll be ready for:
-- 📜 **Meta Frontend Developer Certificate**
-- 📜 **IBM Full Stack Developer Certificate**
-- 📜 **AWS Developer Associate**
-
 ---
 
 ## 🤝 Community & Support
