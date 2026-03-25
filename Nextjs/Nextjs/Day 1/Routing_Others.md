@@ -1,5 +1,4 @@
 # **Next.js Routing - Notes & Concepts**
-
 ## **Routing**
 Routing determines how users navigate between different pages in your web application. In Next.js, routing is **file-system based** - the structure of files in your project determines the routes in your app. This means you don't need to configure routes manually; Next.js automatically maps files to routes. It supports both **server components** (default) and **client components**, with built-in optimizations like automatic code splitting and prefetching.
 
