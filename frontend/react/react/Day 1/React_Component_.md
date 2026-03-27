@@ -1,5 +1,7 @@
 # **React Component Fundamentals - From Basic to Advanced**
 
+
+
 ## **1. Component Basics**
 ### **Concept (70%)**
 Components are the **building blocks** of React applications. Think of them like **LEGO bricks** - each component is a reusable piece of UI that can be combined to build complex interfaces. Components can be **class components** (older style) or **function components** (modern approach). They encapsulate **structure**, **logic**, and **appearance** in one package.
