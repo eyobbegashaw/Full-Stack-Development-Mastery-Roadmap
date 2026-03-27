@@ -8,6 +8,8 @@ Custom Hooks are **JavaScript functions starting with "use"** that can call othe
 
 ---
 
+
+
 ## **🌟 Why Create Custom Hooks?**
 1. **DRY Principle** - Don't Repeat Yourself
 2. **Clean Components** - Move logic out of components
