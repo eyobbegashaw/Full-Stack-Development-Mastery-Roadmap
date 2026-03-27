@@ -12,6 +12,8 @@ Headless Library: Component = Behavior only
 You Add: Styling (Tailwind, CSS, etc.)
 ```
 
+
+
 **Why Headless Components Exist:**
 1. **Separation of concerns** - Logic vs presentation
 2. **Complete styling freedom** - No fighting default styles
